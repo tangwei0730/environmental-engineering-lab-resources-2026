@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="561.654392pt" height="503.994893pt" viewBox="0 0 561.654392 503.994893" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-20T22:43:42.189108</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 503.994893 
+L 561.654392 503.994893 
+L 561.654392 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 77.41875 409.8995 
+L 464.55575 409.8995 
+L 464.55575 22.7625 
+L 77.41875 22.7625 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p1a14ec9e13)">
+    <image xlink:href="data:image/png;base64,
+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" id="image5cff7b5ed0" transform="scale(1 -1) translate(0 -387.36)" x="77.41875" y="-22.5395" width="387.36" height="387.36"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mfd9f0c8010" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfd9f0c8010" x="109.680167" y="409.8995" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 10px 'SimHei', sans-serif" transform="translate(94.654148 436.704014) rotate(-45)">温度</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mfd9f0c8010" x="174.203" y="409.8995" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 10px 'SimHei', sans-serif" transform="translate(166.248049 428.831927) rotate(-45)">pH</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mfd9f0c8010" x="238.725833" y="409.8995" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font: 10px 'SimHei', sans-serif" transform="translate(223.699814 436.8145) rotate(-45)">氨氮</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mfd9f0c8010" x="303.248667" y="409.8995" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font: 10px 'SimHei', sans-serif" transform="translate(274.080512 450.929014) rotate(-45)">硝酸盐氮</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mfd9f0c8010" x="367.7715" y="409.8995" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 10px 'SimHei', sans-serif" transform="translate(331.532277 458.000082) rotate(-45)">亚硝酸盐氮</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mfd9f0c8010" x="432.294333" y="409.8995" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 10px 'SimHei', sans-serif" transform="translate(417.268314 436.759257) rotate(-45)">余氯</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="270.98725" y="470.852715" transform="rotate(-0 270.98725 470.852715)">水质参数</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <defs>
+       <path id="mb2ba45cdd5" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mb2ba45cdd5" x="77.41875" y="55.023917" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font: 10px 'SimHei', sans-serif; text-anchor: end" x="70.41875" y="59.027823" transform="rotate(-0 70.41875 59.027823)">温度</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mb2ba45cdd5" x="77.41875" y="119.54675" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 10px 'SimHei', sans-serif; text-anchor: end" x="70.41875" y="122.98425" transform="rotate(-0 70.41875 122.98425)">pH</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#mb2ba45cdd5" x="77.41875" y="184.069583" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font: 10px 'SimHei', sans-serif; text-anchor: end" x="70.41875" y="188.151615" transform="rotate(-0 70.41875 188.151615)">氨氮</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mb2ba45cdd5" x="77.41875" y="248.592417" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font: 10px 'SimHei', sans-serif; text-anchor: end" x="70.41875" y="252.654917" transform="rotate(-0 70.41875 252.654917)">硝酸盐氮</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#mb2ba45cdd5" x="77.41875" y="313.11525" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font: 10px 'SimHei', sans-serif; text-anchor: end" x="70.41875" y="317.17775" transform="rotate(-0 70.41875 317.17775)">亚硝酸盐氮</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mb2ba45cdd5" x="77.41875" y="377.638083" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font: 10px 'SimHei', sans-serif; text-anchor: end" x="70.41875" y="381.681052" transform="rotate(-0 70.41875 381.681052)">余氯</text>
+     </g>
+    </g>
+    <g id="text_14">
+     <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="15.16875" y="216.331" transform="rotate(-90 15.16875 216.331)">水质参数</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 77.41875 409.8995 
+L 77.41875 22.7625 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 464.55575 409.8995 
+L 464.55575 22.7625 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 77.41875 409.8995 
+L 464.55575 409.8995 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 77.41875 22.7625 
+L 464.55575 22.7625 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_15">
+    <text style="fill: #ffffff; font: 10px 'SimHei', sans-serif; text-anchor: middle" x="109.680167" y="57.836417" transform="rotate(-0 109.680167 57.836417)">1.00</text>
+   </g>
+   <g id="text_16">
+    <!-- 0.74$^{**}$ -->
+    <g style="fill: #ffffff" transform="translate(159.153 58.373917)">
+     <text>
+      <tspan style="font: 10px 'SimHei'" x="0 5 10 15" y="-0.9765625">0.74</tspan>
+      <tspan style="font: 7px 'DejaVu Sans'" x="20.095703 24.959473" y="-4.8046875">**</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_17">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="238.725833" y="57.836417" transform="rotate(-0 238.725833 57.836417)">0.09</text>
+   </g>
+   <g id="text_18">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="303.248667" y="57.836417" transform="rotate(-0 303.248667 57.836417)">-0.16</text>
+   </g>
+   <g id="text_19">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="367.7715" y="57.836417" transform="rotate(-0 367.7715 57.836417)">0.13</text>
+   </g>
+   <g id="text_20">
+    <!-- 0.78$^{**}$ -->
+    <g style="fill: #ffffff" transform="translate(417.244333 58.373917)">
+     <text>
+      <tspan style="font: 10px 'SimHei'" x="0 5 10 15" y="-0.9765625">0.78</tspan>
+      <tspan style="font: 7px 'DejaVu Sans'" x="20.095703 24.959473" y="-4.8046875">**</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_21">
+    <!-- 0.74$^{**}$ -->
+    <g style="fill: #ffffff" transform="translate(94.630167 122.89675)">
+     <text>
+      <tspan style="font: 10px 'SimHei'" x="0 5 10 15" y="-0.9765625">0.74</tspan>
+      <tspan style="font: 7px 'DejaVu Sans'" x="20.095703 24.959473" y="-4.8046875">**</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_22">
+    <text style="fill: #ffffff; font: 10px 'SimHei', sans-serif; text-anchor: middle" x="174.203" y="122.35925" transform="rotate(-0 174.203 122.35925)">1.00</text>
+   </g>
+   <g id="text_23">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="238.725833" y="122.35925" transform="rotate(-0 238.725833 122.35925)">-0.28</text>
+   </g>
+   <g id="text_24">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="303.248667" y="122.35925" transform="rotate(-0 303.248667 122.35925)">-0.21</text>
+   </g>
+   <g id="text_25">
+    <text style="fill: #ffffff; font: 10px 'SimHei', sans-serif; text-anchor: middle" x="367.7715" y="122.35925" transform="rotate(-0 367.7715 122.35925)">0.54</text>
+   </g>
+   <g id="text_26">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="432.294333" y="122.35925" transform="rotate(-0 432.294333 122.35925)">0.39</text>
+   </g>
+   <g id="text_27">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="109.680167" y="186.882083" transform="rotate(-0 109.680167 186.882083)">0.09</text>
+   </g>
+   <g id="text_28">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="174.203" y="186.882083" transform="rotate(-0 174.203 186.882083)">-0.28</text>
+   </g>
+   <g id="text_29">
+    <text style="fill: #ffffff; font: 10px 'SimHei', sans-serif; text-anchor: middle" x="238.725833" y="186.882083" transform="rotate(-0 238.725833 186.882083)">1.00</text>
+   </g>
+   <g id="text_30">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="303.248667" y="186.882083" transform="rotate(-0 303.248667 186.882083)">-0.05</text>
+   </g>
+   <g id="text_31">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="367.7715" y="186.882083" transform="rotate(-0 367.7715 186.882083)">-0.34</text>
+   </g>
+   <g id="text_32">
+    <text style="fill: #ffffff; font: 10px 'SimHei', sans-serif; text-anchor: middle" x="432.294333" y="186.882083" transform="rotate(-0 432.294333 186.882083)">0.53</text>
+   </g>
+   <g id="text_33">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="109.680167" y="251.404917" transform="rotate(-0 109.680167 251.404917)">-0.16</text>
+   </g>
+   <g id="text_34">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="174.203" y="251.404917" transform="rotate(-0 174.203 251.404917)">-0.21</text>
+   </g>
+   <g id="text_35">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="238.725833" y="251.404917" transform="rotate(-0 238.725833 251.404917)">-0.05</text>
+   </g>
+   <g id="text_36">
+    <text style="fill: #ffffff; font: 10px 'SimHei', sans-serif; text-anchor: middle" x="303.248667" y="251.404917" transform="rotate(-0 303.248667 251.404917)">1.00</text>
+   </g>
+   <g id="text_37">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="367.7715" y="251.404917" transform="rotate(-0 367.7715 251.404917)">0.10</text>
+   </g>
+   <g id="text_38">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="432.294333" y="251.404917" transform="rotate(-0 432.294333 251.404917)">-0.17</text>
+   </g>
+   <g id="text_39">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="109.680167" y="315.92775" transform="rotate(-0 109.680167 315.92775)">0.13</text>
+   </g>
+   <g id="text_40">
+    <text style="fill: #ffffff; font: 10px 'SimHei', sans-serif; text-anchor: middle" x="174.203" y="315.92775" transform="rotate(-0 174.203 315.92775)">0.54</text>
+   </g>
+   <g id="text_41">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="238.725833" y="315.92775" transform="rotate(-0 238.725833 315.92775)">-0.34</text>
+   </g>
+   <g id="text_42">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="303.248667" y="315.92775" transform="rotate(-0 303.248667 315.92775)">0.10</text>
+   </g>
+   <g id="text_43">
+    <text style="fill: #ffffff; font: 10px 'SimHei', sans-serif; text-anchor: middle" x="367.7715" y="315.92775" transform="rotate(-0 367.7715 315.92775)">1.00</text>
+   </g>
+   <g id="text_44">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="432.294333" y="315.92775" transform="rotate(-0 432.294333 315.92775)">-0.05</text>
+   </g>
+   <g id="text_45">
+    <!-- 0.78$^{**}$ -->
+    <g style="fill: #ffffff" transform="translate(94.630167 380.988083)">
+     <text>
+      <tspan style="font: 10px 'SimHei'" x="0 5 10 15" y="-0.9765625">0.78</tspan>
+      <tspan style="font: 7px 'DejaVu Sans'" x="20.095703 24.959473" y="-4.8046875">**</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_46">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="174.203" y="380.450583" transform="rotate(-0 174.203 380.450583)">0.39</text>
+   </g>
+   <g id="text_47">
+    <text style="fill: #ffffff; font: 10px 'SimHei', sans-serif; text-anchor: middle" x="238.725833" y="380.450583" transform="rotate(-0 238.725833 380.450583)">0.53</text>
+   </g>
+   <g id="text_48">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="303.248667" y="380.450583" transform="rotate(-0 303.248667 380.450583)">-0.17</text>
+   </g>
+   <g id="text_49">
+    <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="367.7715" y="380.450583" transform="rotate(-0 367.7715 380.450583)">-0.05</text>
+   </g>
+   <g id="text_50">
+    <text style="fill: #ffffff; font: 10px 'SimHei', sans-serif; text-anchor: middle" x="432.294333" y="380.450583" transform="rotate(-0 432.294333 380.450583)">1.00</text>
+   </g>
+   <g id="text_51">
+    <text style="font: 12px 'SimHei', sans-serif; text-anchor: middle" x="270.98725" y="16.7625" transform="rotate(-0 270.98725 16.7625)">水质参数Pearson相关性热图</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 488.751812 421.950545 
+L 509.313767 421.950545 
+L 509.313767 10.711455 
+L 488.751812 10.711455 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABwAAAI7CAYAAAD/O/szAAACwElEQVR4nO2cgW3EMAzE7MBbdYUO3b3aT7oE4cB35AKGrKOs9IHOr++fZ2zk2nnYGGOsee09840K59YDt1f4wpVOQ8Oi+DjrSu+h4uMoPo49xFlXuoeGBqehwnQt8nv4xpoYH5oZHpp8LfIrdInCyQ9NQ4Xxw9u/09A0fOPHa5E/2hSfRi1w3thL0yuM76FXilMw2uLfw/weKj7O2lygPeQpqDB+azM0OGtzZtxpeNxpcPJn6dr805Na8OSPNt9DnIKdpuBzrWC07T2wYrSlhyZ/pynYS9OHt1eKk78IN/QwvUJXfRy1wLGHOH7M4BSEJv9zzdFGo/g4vhY4DT1Mr9DQ4BRUGK9FQQ/n3PoP6RpGm1rQWCHOuhQfpiA0+RUWDO+h+CxqgeMijNOQUkcbTEFo8sUvGN6KD6P4OL6HOPkpVQuc/NfCFx9HD88/0NDgvLHT7MUenn+g4uPYQ5z8HhoanIpv/PgK83uYXqFXiqP4OFZ4/oH5V1pR4b31QIf3+Qeu+YRfaYP4T7z49hCmYbQZGhh7iJP/AKsFToUW8T1UfJiCL+CRHpoG8R3eMAWjTfFpfPFx1kjvoVrgFLyH8VrkjzZDg+NOg2MPcfJ76GjDyX8P17jTexg/2hQfp0H8+B7GV6gWOL6HOIqPk99DxcdRCxxTev6BDaHJF/+2hywN4qfPUkcbjqMNZz3pPTQ0OAXiPz5PMBXiGxoWxcfJf55conDyQ1Ox08T3MH14vzHaDA2L4uPkD29Dg+Oqj+Pmff6BBeL74tM4vHHyN2/Fx6kQP7/C8JQaGpz80BT0MP7XNbXAKdDCHtJY4fkHqgXO/grvT3qF8SlVCxwrxFH88w8sCE3De5hfYbj4+T1UfJz80DSIn55SxccpEL+gh5/w0aYWOBVapFd4/6VX+PyGV2hocPJDU9FDdxqWitCEV/gPEiBaYEP4MBwAAAAASUVORK5CYII=" id="image74d2c2fa29" transform="scale(1 -1) translate(0 -411.12)" x="488.88" y="-10.08" width="20.16" height="411.12"/>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_7">
+     <g id="line2d_13">
+      <defs>
+       <path id="m76a571d0d6" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m76a571d0d6" x="509.313767" y="421.950545" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_52">
+      <text style="font: 10px 'SimHei', sans-serif; text-anchor: start" x="516.313767" y="425.388045" transform="rotate(-0 516.313767 425.388045)">-1.00</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m76a571d0d6" x="509.313767" y="370.545659" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_53">
+      <text style="font: 10px 'SimHei', sans-serif; text-anchor: start" x="516.313767" y="373.983159" transform="rotate(-0 516.313767 373.983159)">-0.75</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m76a571d0d6" x="509.313767" y="319.140772" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_54">
+      <text style="font: 10px 'SimHei', sans-serif; text-anchor: start" x="516.313767" y="322.578272" transform="rotate(-0 516.313767 322.578272)">-0.50</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m76a571d0d6" x="509.313767" y="267.735886" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_55">
+      <text style="font: 10px 'SimHei', sans-serif; text-anchor: start" x="516.313767" y="271.173386" transform="rotate(-0 516.313767 271.173386)">-0.25</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m76a571d0d6" x="509.313767" y="216.331" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_56">
+      <text style="font: 10px 'SimHei', sans-serif; text-anchor: start" x="516.313767" y="219.7685" transform="rotate(-0 516.313767 219.7685)">0.00</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m76a571d0d6" x="509.313767" y="164.926114" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_57">
+      <text style="font: 10px 'SimHei', sans-serif; text-anchor: start" x="516.313767" y="168.363614" transform="rotate(-0 516.313767 168.363614)">0.25</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m76a571d0d6" x="509.313767" y="113.521228" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_58">
+      <text style="font: 10px 'SimHei', sans-serif; text-anchor: start" x="516.313767" y="116.958728" transform="rotate(-0 516.313767 116.958728)">0.50</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m76a571d0d6" x="509.313767" y="62.116341" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_59">
+      <text style="font: 10px 'SimHei', sans-serif; text-anchor: start" x="516.313767" y="65.553841" transform="rotate(-0 516.313767 65.553841)">0.75</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m76a571d0d6" x="509.313767" y="10.711455" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_60">
+      <text style="font: 10px 'SimHei', sans-serif; text-anchor: start" x="516.313767" y="14.148955" transform="rotate(-0 516.313767 14.148955)">1.00</text>
+     </g>
+    </g>
+    <g id="text_61">
+     <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="553.204392" y="216.331" transform="rotate(-90 553.204392 216.331)">Pearson相关系数</text>
+    </g>
+   </g>
+   <g id="LineCollection_1"/>
+   <g id="patch_8">
+    <path d="M 488.751812 421.950545 
+L 499.03279 421.950545 
+L 509.313767 421.950545 
+L 509.313767 10.711455 
+L 499.03279 10.711455 
+L 488.751812 10.711455 
+L 488.751812 421.950545 
+z
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="text_62">
+   <text style="font: 10px 'SimHei', sans-serif; text-anchor: middle" x="284.14" y="495.271455" transform="rotate(-0 284.14 495.271455)">注：*表示 p &lt; 0.05，**表示 p &lt; 0.01。</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1a14ec9e13">
+   <rect x="77.41875" y="22.7625" width="387.137" height="387.137"/>
+  </clipPath>
+ </defs>
+</svg>
